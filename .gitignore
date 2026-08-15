@@ -26,4 +26,5 @@ yarn-error.log
 /.idea
 /.nova
 /.vscode
-/.zed
+/.
+link_github.txt
